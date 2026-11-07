@@ -3,6 +3,14 @@
   <channel>
     <title>Iron Rush</title>
     <item>
+      <title>Version 0.3.0</title>
+      <pubDate>Sat, 07 Nov 2026 01:27:01 GMT</pubDate>
+      <sparkle:version>15</sparkle:version>
+      <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/Marcel-B/games/releases/download/iron-rush-v0.3.0/Iron-Rush-0.3.0.dmg" length="16619379" type="application/octet-stream" sparkle:edSignature="SzfAdT42lg84DSe1VWDcscXG4OCrLu+CxXEqZhVMCjsCiukAbYic/TPN2Sn86glxPvplLw5xy2eTw1IX0Vs2Cg==" />
+    </item>
+    <item>
       <title>Version 0.2.0</title>
       <pubDate>Fri, 06 Nov 2026 23:57:43 GMT</pubDate>
       <sparkle:version>12</sparkle:version>
